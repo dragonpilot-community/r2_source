@@ -1,0 +1,24 @@
+[submodule "panda"]
+  path = panda
+  url = ../../dragonpilot-community/panda.git
+  branch = legacy
+[submodule "opendbc"]
+  path = opendbc
+  url = ../../dragonpilot-community/opendbc.git
+  branch = legacy
+[submodule "laika_repo"]
+  path = laika_repo
+  url = ../../commaai/laika.git
+[submodule "cereal"]
+  path = cereal
+  url = ../../dragonpilot-community/cereal.git
+  branch = lpdp
+[submodule "rednose_repo"]
+  path = rednose_repo
+  url = ../../commaai/rednose.git
+[submodule "body"]
+  path = body
+  url = ../../commaai/body.git
+[submodule "tinygrad"]
+  path = tinygrad_repo
+  url = https://github.com/geohot/tinygrad.git
